@@ -28,7 +28,7 @@ def load_data():
     df.set_index("time", inplace=True)
     return df
 
-    
+## Comentario practica 2
 
 # Cargar datos
 data = load_data()
